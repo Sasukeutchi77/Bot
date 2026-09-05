@@ -1,0 +1,10 @@
+{
+  "botName": "WhatsApp MD Bot",
+  "ownerNumber": "33612345678",
+  "ownerName": "Propriétaire",
+  "prefix": ".",
+  "mode": "public",
+  "sudoList": [],
+  "autoRead": false,
+  "sessionPath": "./session"
+}

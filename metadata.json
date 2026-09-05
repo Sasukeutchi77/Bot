@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Bot Command Manager",
+  "description": "Studio d'analyse, correction et amélioration des commandes de bot WhatsApp",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
